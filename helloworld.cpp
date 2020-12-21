@@ -1,6 +1,7 @@
 // Hello world program
 // https://code.visualstudio.com/docs/cpp/config-mingw
 
+// Windows 10 
 // Setup auto build: Terminal -> Configure Default Build Task -> g++
 // Build: Ctrl+Shift+B
 
