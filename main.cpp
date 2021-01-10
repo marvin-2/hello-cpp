@@ -11,6 +11,10 @@
 
 // Run from command line: ./main.exe
 
+// newline performance from best to worst:
+//  '\n'
+//  "\n"
+//  endl - forces ﬂushing the buffer
 
 #include <iostream>
 #include "helloworld.h"
