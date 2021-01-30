@@ -2,4 +2,4 @@
 //   file to be included only once in a single compilation
 #pragma once
 
-void hello();
+int hello();
